@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="136" viewBox="0 0 900 136" role="img" aria-labelledby="title desc">
+<title id="title">Jingi Kim</title><desc id="desc">Backend developer building APIs and data pipelines.</desc>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="1" y="13" width="28" height="3" rx="1.5" fill="#4c9b92"/>
+<text x="42" y="19" font-size="11" letter-spacing="2.6" fill="#8b949e">BACKEND DEVELOPER</text>
+<text x="0" y="80" font-size="49" font-weight="600" letter-spacing="-1.8" fill="#e6edf3">Jingi Kim</text>
+<text x="899" y="79" text-anchor="end" font-size="12" letter-spacing="1.1" fill="#8b949e">APIs / DATA PIPELINES</text>
+<path d="M0 116H900" stroke="#30363d"/>
+</g></svg>

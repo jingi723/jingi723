@@ -1,9 +1,10 @@
-# Profile artwork sources
+# Profile design notes
 
-Static SVG snapshots generated on 2026-10-11 using:
+The current header SVGs are original typographic artwork with light and dark variants.
 
-- Header: https://github.com/kyechan99/capsule-render
-- Skill icons: https://github.com/tandpfun/skill-icons
-- Link badges: https://shields.io/
+Layout references reviewed on 2026-10-11:
+- https://github.com/caneco — concise introduction and lightweight hierarchy.
+- https://github.com/anuraghazra — typographic introduction and selected repository links.
 
-Snapshots keep the profile independent of image-service availability.
+No reference images, personal claims, or source artwork were copied.
+The earlier Capsule Render / Skill Icons / Shields composition remains in git history.
