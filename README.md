@@ -31,5 +31,12 @@ A Java and Spring Boot project exploring database and Redis approaches to preven
 
 <sub>WORKING WITH</sub>
 
-Java / Spring Boot / Python / PostgreSQL / Redis  
-AWS / Docker / Linux / Git
+<p>
+  <img src="assets/icons/java.svg" width="28" height="28" alt="Java" title="Java" /> &nbsp;
+  <img src="assets/icons/spring.svg" width="28" height="28" alt="Spring Boot" title="Spring Boot" /> &nbsp;
+  <img src="assets/icons/python.svg" width="28" height="28" alt="Python" title="Python" /> &nbsp;
+  <img src="assets/icons/postgresql.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="assets/icons/redis.svg" width="28" height="28" alt="Redis" title="Redis" /> &nbsp;
+  <img src="assets/icons/docker.svg" width="28" height="28" alt="Docker" title="Docker" /> &nbsp;
+  <img src="assets/icons/git.svg" width="28" height="28" alt="Git" title="Git" />
+</p>
