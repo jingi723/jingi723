@@ -5,11 +5,11 @@
 
 I build backend APIs and data pipelines. I care about what happens when a request fails, a message arrives twice, or a job stops halfway through.
 
-[Blog ↗](https://jingi723.github.io/) &nbsp;&nbsp; / &nbsp;&nbsp; [Development notes](#writing)
+[Blog ↗](https://jingi723.github.io/) &nbsp;&nbsp; / &nbsp;&nbsp; [Development notes](#-writing)
 
 <br />
 
-### Selected projects
+### 🛠️ Selected projects
 
 **[EDGE](https://github.com/alphaeveryday/edge)** &nbsp; — &nbsp; ETF analysis service  
 Data ingestion and delivery pipelines, transactional outbox, and job-status APIs. My work connects source data to downstream analysis and makes processing status visible.  
@@ -21,7 +21,7 @@ A Java and Spring Boot project exploring database and Redis approaches to preven
 
 <br />
 
-### Writing
+### 📝 Writing
 
 - [Transactional outbox & idempotent processing](https://jingi723.github.io/posts/edge-outbox/)
 - [Observability & job-status APIs](https://jingi723.github.io/posts/edge-observability/)
